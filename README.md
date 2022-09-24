@@ -8,4 +8,4 @@ Because of that, in order to run the codes, you have to change the all paths in 
 
 in which all related csv files are provided.
 
-Datasets are in DB folder
+Datasets are in DB folder.
