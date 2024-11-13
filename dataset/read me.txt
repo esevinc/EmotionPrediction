@@ -1,6 +1,7 @@
 Datasets
-1. This directory is for the creation of the *.csv files as seen here.
-2. Ravdes, Emodb, and Emovo are put in the directory,
-3. With the help of the codes, CSV files are created on the local computer.
-4. Then *.csv files are exported to the Google colab environment since datasets are huge.
-5. To run the codes, related path changes must be done initially that are in the second box.
+This directory is for the creation of the *.csv files as seen here.
+Ravdes, Emodb, and Emovo are put in the directory,
+With the help of the codes, CSV files are created on the local computer.
+Then *.csv files are exported to the Google colab environment since datasets are huge.
+You can also find the datasets in this directory as well
+To run the codes, related path changes must be done initially that are in the second box.
